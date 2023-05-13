@@ -13,5 +13,5 @@ Steps involved:
 6. Modifying Arduino Sketch according to Thing Data & Credentials
 7. Subscribe & Publish Data to and from AWS Dashboard
 
-Connection:
+
 ![image](https://github.com/priyadharshini1250/temp_humidity-monitor/assets/90914294/e5ed15c2-9bb1-4a29-916b-b1fb9549b99f)
